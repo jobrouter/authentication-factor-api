@@ -15,6 +15,9 @@ autocompletion in your IDE.
 that API is likely to change and custom plugins may stop working.\
 We encourage everyone to experiment with it and give us feedback about it.
 
+## Requirements
+
+* Composer 2
 
 ## Installation
 
