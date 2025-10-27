@@ -1,5 +1,5 @@
 > [!NOTE]  
-> Die Weiterentwicklung der API ist momentan ausgesetzt. Bei Interesse an dem Repository bitten wir Sie, ein Ticket im JobRouter-Portal zu eröffnen.
+> The further development of the API is currently on hold. If you are interested in the repository, please open a ticket in the JobRouter portal.
 
 # Authentication Factor API
 
