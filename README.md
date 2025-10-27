@@ -1,3 +1,6 @@
+> [!NOTE]  
+> Die Weiterentwicklung der API ist momentan ausgesetzt. Bei Interesse an dem Repository bitten wir Sie, ein Ticket im JobRouter-Portal zu eröffnen.
+
 # Authentication Factor API
 
 > JobRouter® is a scalable digitisation platform which links processes, data and documents.
